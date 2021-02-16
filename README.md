@@ -1,6 +1,5 @@
 ### Hi there 👋
-코린이의 코딩 잘해지기
-1일 1커밋 해볼려고 노력중...
+
 
 <!--
 **5eOOp/5eOOp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
